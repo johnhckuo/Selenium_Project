@@ -2,9 +2,10 @@
 For Academic Research Only
 
 #Selenium WebDriver Install Tutorial
+
 1. 安裝 python (本範例以 python 2.6.6 進行)
 
-2.  安裝 pip：
+2. 安裝 pip：
 - 執行指令進行安裝：python setup.py install
 
 3. 安裝 selenium：
